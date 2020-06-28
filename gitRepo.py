@@ -1,5 +1,5 @@
 from gitHandle import gitRepo
-from data import *
+from dataServer import *
 
 ssh = gitRepo(server[1],username[1], psw[1], remoteFolder[0]) #if you use array 
 #ssh = gitRepo(server, username ,psw, remoteFolder) #if not use array 
