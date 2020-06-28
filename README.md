@@ -7,4 +7,5 @@ In my local server I organized my repo by programming language, so I have a fold
 When you start the scrip you need to insert the repo name and language, based on the name of your folder, it will create you the repo in remote and local plus it will produce a file called clonedRepo.txt, in case you need to clone your repo.
 
 # Future update
-In future update my idea is adding support for github and a gui, using compex script via command line can be difficult and a gui made better everything.
+In future update my idea is adding support for github and a gui, using compex script via command line can be difficult and a gui made better everything.\
+And an update to Python 3.x since support for Python 2.x is ended but, unfortunatly, one module seems not working with Python 3.x so I need to wait the upgrade.
